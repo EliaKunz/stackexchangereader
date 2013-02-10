@@ -1,0 +1,352 @@
+Interpreting interactions between two treatments
+Combining auto.arima() and ets() from the forecast package
+When to log transform a time series before fitting an ARIMA model
+Subsets not significantly different but superset is
+Splitting one variable according to bins from another variable
+PCA Based Filtering but only filter out small values
+ANOVA assumption normality/normal distribution of residuals
+Can I use multiple regression when I have mixed categorical and continuous predictors?
+R package for symbolic data analysis
+Help understand kNN for multi-dimensional data
+Weight a rating system to favor items rated highly by more people over items rated highly by fewer people?
+Making square-root of covariance matrix positive-definite (Matlab)
+Non-informative priors for the AR(1) model
+Test for interaction contrasts using Prism or R
+Can we get confidence intervals for entries in stationary vector for an absorbing, time-independent Markov chain?
+Resources for learning to use (/create) dynamic (/interactive) statistical visualization
+Arranging hourly data for several years
+How to prove that Elo rating or Page ranking have a meaning for my set?
+How to optimize my R script in order to use "multicore"
+Statistics and econometrics distance learning
+Sample selection and variation in the variable of interest when using panel data
+Where to start in estimating the days until payment of an invoice?
+Non-parametric regression
+ROC plot for continuous data in R
+Measuring Regression to the Mean in Hitting Home Runs
+Reliability of mean of standard deviations
+Free tools on Linux for multivariate logistic regression?
+Rating system taking account of number of votes
+What are the breakthroughs in Statistics of the past 15 years?
+Approximate a poisson binomial distribution with a binomial distribution?
+Passing arguments to iterated function through apply
+Quantile extrapolation?
+Regression with repeated data
+Question on AIC and stepAIC
+Can statistical prediction be asymmetric?
+Continuity correction for Pearson and McNemar's chi-square test
+How to fix the threshold for statistical validity of p-values produced by ANOVAs?
+Is it possible to do meta analysis of only two studies
+How many lags to use in the Ljung-Box test of a time series?
+In which case does FCM membership converge to 1/K?
+What software is used for maps of the US (or other arbitrary areas)?
+Requirements to perform a two-way factorial ANCOVA
+Simple linear model with autocorrelated errors in R
+R examples for Durbin & Koopman "Time Series Analysis by State Space Methods"
+How to interpret a three-way ANOVA?
+Interpretation of the p-values produced by Levene's or Bartlett's test for homogeneity of variances
+How to measure/rank "variable importance" when using CART? (specifically using {rpart} from R)
+How can I make a continuous distribution out of simulation results in R?
+Consequence of ignoring the order of a categorical variable with different levels in logistic regression
+Merging spatial and temporal clusters
+Problem with casewise list in logistic regression
+Lagged Exogenous Variables in VECM with R
+What's a good prior distribution for degrees of freedom in a t distribution?
+Mildly informative prior distributions for scale parameters
+Seeking certain type of ARIMA explanation
+How do extreme values scale with sample size?
+LASSO assumptions
+Likelihood ratio test in R
+Predicting daily electricity load - fitting time series
+Problem of two highly correlated continuous variables in a mixed effects model
+Ideas for Segmenting Audio Data
+Statistical landscape
+What does averaging do for the noise level of my signal
+Modeling vacancy rate
+Maximum likelihood and sufficient statistics
+How can I plot this simple graph (Refer Image) in R?
+How do I calculate a weighted standard deviation? In Excel?
+Does a within-subjects factor with unequally represented levels mess up a repeated-measures ANOVA?
+Mathematician wants the equivalent knowledge to a quality stats degree
+How do calculate Present Value in Google Spreadsheet?
+Predicting from a simple linear model with lags in R
+Likelihood at MLE and transformations, the multivariate normal case
+Reading random text file in R
+Getting started on BUGS, need help implementing a simple model
+How can one plot continuous by continuous interactions in ggplot2?
+Test for independence, when I'm missing one bin of a 2x2 contingency
+Collapsing categorical data easily for regression in R
+80% of missing data in a single variable
+Should a multiple choice poll contain a neutral response?
+What types of analysis are appropriate for demographic time series data?
+How to do primary component analysis on multi-mode data with non-orthogonal primary components?
+Investigate ratios between two groups
+Statistical test for multiple biological replicates
+Derivative of a linear model
+What is Deviance? (specifically in CART/rpart)
+Conducting planned comparisons in mixed model using lmer
+How can I estimate the density of a zero-inflated parameter in R?
+Multiple hypothesis ANOVA
+Calibrating a multi-class boosted classifier
+What is the hardest statistical concept to grasp?
+Correcting for multiple comparisons when running a bivariate correlation in SPSS
+How to do a repeated measures multinomial logistic regression using SPSS?
+Error in cor(y): allocMatrix: too many elements specified
+Goodness of fit for multi-level-data fits
+Probability of getting between
+Detecting abnormal points in point cloud
+What temporal resolution for time series significance test?
+Probability calculation, system uptime, likelihood of occurence
+Constrained versus unconstrained formulation of SVM optimisation
+Composite dependent variable
+How should I compare average store sales change across time?
+Limiting distribution of a squared sum of random variables
+What is the closed form solution for the inverse CDF for Epanechnikov
+Sampling and confidence calculations
+Poisson process, time and probabilities
+What, precisely, is a confidence interval?
+Logistic Regression and Dataset Structure
+How do I know which method of parameter estimation to choose?
+Median entropy to observe evolution of system?
+How can we compare multiple proportions from multiple independent populations to evaluate implementation of a treatment?
+Prerequisite for conversion from odds ratio to relative risk to be valid
+Statistical test for trend (continuous variable) in Stata or R
+How can I convert kernel quantiles into sample quantiles?
+Which is the formula from Silverman to calculate the bandwidth in a kernel density estimation?
+Need to convert duplicate column elements to a unique element in R
+How can one use the predict function on a lm object where the IVs have been dynamically scaled?
+How can I pull pull elements out of an array containing multiple regression results?
+Sane stepwise regression?
+What is the difference between Rf_dpois in Rmath.h and the dpois that I use directly in R?
+How do you compute the annual standard error of a regression model when the model itself is based on monthly observations?
+Predict after running the mlogit function in R
+Choice of weight function in Moran's I
+How do I generate a QQ-Plot for data fitted using fitdistr?
+A "systematic" part of a random time series component?
+Can someone help me understand what type of problem I am looking at? Not sure if this classifies as hypothesis-testing
+Estimation of exponential model
+Regression selection using all possible subsets selection and automatic selection techniques
+Pick a random item with the help of an array of cumulative probabilities
+Understanding the parameters inside the Negative Binomial Distribution
+Using Singular Value Decomposition to Compute Variance Covariance Matrix from linear regression model
+Picking random elements from a list – still random if they are reinserted at the end?
+Difference between ridge regression implementation in R and SAS
+Properties of Battacharyya distance vs Kullback-Leibler divergence
+Alternative ways for interpretation of odds
+Get distribution curve characteristics by selecting peak point?
+Predicting long-memory processes
+Correlation of two 1d point processes with non-uniform unconditional distribution
+When to use Equal-Frequency-Histograms
+What should I do to compare different sets of data?
+Reading in SVM files in R (libsvm)
+1-step-ahead predictions with dynlm R package
+Removing duplicated rows from R data frame
+Probability of at least one unique outcome
+Statistically group chemical batches
+Expected number of runs of length n in coin toss
+How to compute Confidence Interval associated to a Binomial proportion's increase?
+Geostatistical analysis using spatial.exp in WinBugs
+Understanding expectation maximization for simple 2 linear mixture case
+How should I deal with features with time related values in Bayesian network?
+Plotting binomial proportions on a box & whiskers plot using R
+How to calculate Zipf's law coefficient from a set of top frequencies?
+Failure detection method
+Assessing conditional independence of genes in Trans-eQTL cluster
+How to compare Likert scales with varying number of categories across time?
+Setting up Sweave, R, Latex, Eclipse StatET
+Least angle regression keeps the correlations monotonically decreasing and tied?
+Objective measure of relaxation time towards equilibrium for a time series
+Concept of a random linear model
+Splitting a numeric column for a dataframe
+Making sense out of statistics theory and applications
+Building MATLAB and R interfaces to Ross Quinlan's C5.0
+Kullback-Leibler divergence - interpretation
+Optimizing the ending rule of gradient method
+Statistical analysis of mutant proteins sequences
+Calculating and interpreting effect sizes for interaction terms
+Efficient way to populate matrix in R?
+How should I design a database for multi-year data analysis with JMP?
+What are the major machine learning theories that maybe used by Twitter for suggesting followers?
+Trend detection quantitative models
+Exploratory analysis of spatio-temporal forecast errors
+Estimate the Kullback-Leibler divergence
+Simulate Arellano-Bond
+3d Kolmogorov-Smirnov test
+Strategy for analysing stock history data from multiple files with SPSS
+Correlation of log-normal random variables
+cforest and randomForest classification prediction error
+Aggregating results from linear model runs R
+Fill colors in Gnuplot
+Split-Plot ANOVA: model comparison tests in R
+Fitting normal distribution to given quantiles
+Censoring/Truncation in JAGS
+Exponential weighted moving skewness/kurtosis
+What university level statistics courses are considered advanced/hard?
+What are the most dangerous concepts in the practice of data analysis?
+Displaying regression results in MATLAB
+How to find the best input value for this simple problem?
+Plotting a heatmap given a dendrogram and a distance matrix in R
+What is a good statistical test for independent replicates?
+Best distance measure to use
+If correlation between two variables is affected by a factor, how should I evaluate this correlation?
+Kavosh uses a different switching process in its MCMC; how concerned should I be?
+How do I do a Monte Carlo simulation?
+An adaptation of the Kullback-Leibler distance?
+How could a Tukey HSD test be more signif then the uncorrected P value of t.test?
+Is median fairer than mean?
+Is "every blue t-shirted person" a systematic sample?
+Efficient online linear regression
+How can I speed up calculation of the fixed effects in a GLMM?
+How to detect patterns between fields of a distribution in SPSS?
+Calculating p-value from an arbitrary distribution
+zscore function in R
+Minimum tickets required for specified probability of winning lottery
+How do you solve a Poisson process problem
+Any good reference books/material to help me build a txn level fraud detection model?
+How to do a logistic regression with the results of different factor analysis methods
+The code variable in the nlm() function
+Getting rid of file download warning in SAS
+How to interpret ADF-test optimal lag model reduction?
+Simulation of ARIMA (1,1,0) series
+What is the expected value of modified Dirichlet distribution? (integration problem)
+How to pull data formatted for Matlab into R?
+Why continue to teach and use hypothesis testing?
+Aggregating results from Arima runs R
+Function timings in the Matrix package
+Normal distribution and weight of babies problem
+What is the right statistical test to use when attesting claims like "60% people switched over from group A to group B"?
+Creating groups with multi-dimensional data?
+Documented/reproducible examples of successful real-world applications of econometric methods?
+Online, scalable statistical methods
+Logarithmic regression with individual errors
+How do I fit a multilevel model for over-dispersed poisson outcomes? 
+Repeated measures using R
+Means and imputation of log-normal variables
+Calculating required sample size, precision of variance estimate?
+Statistical Analysis for Perception Survey
+Seeing if estimators are unbiased
+Normal distribution necessary to assess moderating and mediating effects?
+Log-scale with concentrated data using integers
+Bayesian inference for multinomial distribution with asymmetric prior knowledge?
+Parameter estimation for normal distribution in Java
+Separate Comma Delimited Cells To New Rows
+Does the distribution $\log(1 + x^{-2}) / 2\pi$ have a name?
+Effect of missing data and outliers on least square estimation
+Number of trials required from a binomial distribution to get the desired odds
+Egger’s linear regression method intercept in meta analysis
+How to obtain in R a good formula for glm (general linear models) to predict a binomial variable?
+Matlab image blending
+When is interactive data visualization useful to use?
+Using poisson regression for continuous data?
+Question about combining hazard ratios - Maybe Simpson's paradox?
+Meta-analysis of 3 regions' data for 5 years
+Error creating parser in readHTMLTable
+GLMNET or LARS for computing LASSO solutions?
+How to quantify redundancy of features?
+How can I effectively summarize and visualize time series of employee activities?
+Binomial Probability Question
+Is it possible to correct for violating the assumption of independence for nonparametric tests?
+What is white noise process?
+Formal statistical test for whether a process is a white noise
+Analysis of covariance in R
+difference belween p,P and italic p in statistics
+Justifying normal approximation of experimental data
+Academic data analysis format for questionaires
+Probability formula for a multivariate-bernoulli distribution
+Generating survival times in days or in years
+Spline function with unknown knots
+Validating an existing questionnaire into another language
+Bayesian additive regression trees (BART) for classification analysis of gene expression data
+Non-linear regression fails to converge, but fit appears good
+Compression theory, practice, for time series with values in a space of distributions (say of a real random variable)
+Difference between longitudinal design and time series
+PCA for images/arrays with high dimensionality?
+When and how to use standardized explanatory variables in linear regression
+Semantic distance between excerpts of text
+Dissimilarity rating experiment: how to analyze the results
+Should percentages have decimal places?
+Is there an anova procedure that doesn't assume equal variance?
+Accomodating entrenched views of p-values
+Can causality be inferred in a study with an experience followed by two sets of measures
+Location test under a bounded non-stationarity?
+Analysing wind data with R
+Dealing with cell values of zero
+Book on designing clinical trials in oncology
+Rigorous definition of an outlier?
+Difference between two slopes
+Computing platform for R: System76 Linux laptop with dual core i5 or quad core i7?
+Change of variable with non bijective function
+A resource on concepts underlying statistics, not the techniques used in applied stats
+General approaches to model car traffic in a parking garage
+When/why should "rabbit ears hunting" density estimation "work"?
+How to decide between a logistic regression or conditional logistic regression?
+Understanding comparisons of clustering results
+Propagation of large errors
+Resources for beginners - how to determine probability of user action based on certain criteria?
+Multiple regression with small data sets
+Increasing row height in R heatmap() function
+What is the difference between using aov() and lme() in analyzing a longitudinal dataset?
+Statistical test for difference in categorization method
+Appropriate test to compare online voting data
+Calculating confidence interval for average hospital length of stay, case-mix adjusted, in R
+Evaluate definite interval of normal distribution
+Regression with Pooled data in SPSS
+ROC vs precision-and-recall curves
+Can one use Cohen's Kappa for two judgements only?
+How much undersampling should be done?
+What are the text-mining packages for R and are there other open source text-mining programs?
+Distribution of sample correlation
+GLM after model selection or regularization
+Detecting a given face in a database of facial images
+Estimating R-squared and statistical significance from penalized regression model
+Interpret residuals in random and fixed effects models
+Multistage sampling in R
+MATLAB interpretation of Xcorr2 - Cross Correlation function
+JAGS: posterior predictive distribution
+Proportion of explained variance in a mixed-effects model
+Poisson distribution and statistical significance
+Normalized sigmoid loss function for boosting?
+Altering Gnuplot histogram
+Interactive decision trees
+Using the stats package in R for kmeans clustering
+How to make a combination (aggregation) of quantile forecast?
+Which one should be applied first: data sampling or dimensionality reduction?
+Learning weights in a Boltzmann machine
+Information content of examples and undersampling
+Combine multiple boxplots in a lattice
+General Linear Model vs. Generalized Linear Model (with an identity link function?)
+Difference between the terms 'joint distribution' and 'multivariate distribution'?
+How to aggregate by minute data for a week into hourly means?
+How to calculate centrality measures in a 4 million edge network using R?
+Hellwig's method of selection of variables
+Finding the Moment Generating Function of Chi-Squared Dist
+Paired t-test and pairwise t-test
+From an email address to a quasi-random number
+Can I change the proposal distribution in random-walk MH MCMC without affecting Markovianity?
+How do you choose a unit of analysis (level of aggregation) in a time series?
+Determinant perturbation approximation
+What should be the optimal parameters for Random Forest classifier?
+Noise in the Fourier transform
+Software for ML/NLP/DM laboratory
+Mean and Median properties
+Can the empirical Hessian of an M-estimator be indefinite?
+Closest distance in hypernym tree as measure of semantic distance between phrases
+How can I represent Conditional Probability Table based Bayesian Networks in Winbugs?
+Setting knots in natural cubic splines in R
+Which non-parametric test can I use to identify significant interactions of independent variables?
+Two sample t-test for data (maybe time series) with autocorrelation?
+Determining whether a group of spatially extensive data is centered around one point in space
+What does plotting residuals from one regression against the residuals from another regression give us?
+Checking the distribution of classes in a sample of a dataset
+Rotation matrices and prior invariance for arbitrary dimensions
+RNG, R, mclapply and cluster of computers
+How to correct uneven sampling distribution when calculating the mean?
+How to graphically compare predicted and actual values from multivariate regression in R?
+More efficient plot functions in R when millions of points are present?
+Bayesian statistics tutorial
+Manually calculated R² doesn't match up with randomForest() R² for testing new data
+C++ libraries for statistical computing
+Orwin's fail safe N test
+Factor models with small noises
+Is z-score meaningful in classification or regression?
+How to store checks of gradient algorithm in a matrix using R?
+Does correlation assume stationarity of data?

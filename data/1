@@ -1,0 +1,238 @@
+Eliciting priors from experts
+What is normality?
+What are some valuable Statistical Analysis open source projects?
+Assessing the significance of differences in distributions
+The Two Cultures: statistics vs. machine learning?
+Locating freely available data samples
+So how many staticians *does* it take to screw in a lightbulb?
+Under what conditions should Likert scales be used as ordinal or interval data?
+Multivariate Interpolation Approaches
+How can I adapt ANOVA for binary data?
+Forecasting demographic census
+Bayesian and Frequentist reasoning in Plain English
+Finding the PDF given the CDF
+Tools for modeling financial time series
+What is a standard deviation?
+Testing random variate generation algorithms
+What is the meaning of p values and t values in statistical tests?
+R packages for seasonality analysis
+Modelling a Poisson distribution with overdispersion
+Correlation does not mean causation
+Sample problems on logit modeling and Bayesian methods
+Pseudo-random number generation algorithms
+Explain data visualization
+Clustering of large, heavy-tailed dataset
+What is meant by a "random variable"?
+Measuring the effectiveness of a pattern recognition software
+PCA on Correlation or Covariance?
+Why do US and UK Schools Teach Different methods of Calculating the Standard Deviation?
+Can someone please explain the back-propagation algorithm?
+A case of survivorship bias?
+What R packages do you find most useful in your daily work?
+Where can I find useful R tutorials with various implementations?
+Robust nonparametric estimation of hazard/survival functions based on low count data
+How Large a Difference Can Be Expected Between Standard GARCH and Asymmetric GARCH Volatility Forecasts?
+What are good basic statistics to use for ordinal data?
+What's the purpose of window function in spectral analysis?
+What is your favorite data visualization blog?
+Power of Holm's multiple comparison testing compared to others
+What are some good frameworks for method selection?
+What statistical blogs would you recommend?
+Why square the difference instead of taking the absolute value in standard deviation?
+Statistical classification of text
+What is the best introductory Bayesian statistics textbook?
+How does one interpret a Bland-Altman plot?
+Clojure versus R: advantages and disadvantages for data analysis
+Algorithms to compute the running median?
+Resources for learning R
+Free Dataset Resources?
+PCA scores in multiple regression
+Is there a standard method to deal with label switching problem in MCMC estimation of mixture models?
+What is your favorite layman's explanation for a difficult statistical concept?
+How to get to a t variable from linear regression
+What methods can be used to determine the Order of Integration of a time series?
+How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?
+How do you decide the sample size when polling a large population?
+Choosing a bandwidth for kernel density estimators
+Free statistical textbooks
+Time series for count data, with counts < 20
+How should outliers be dealt with in linear regression analysis?
+How to choose the number of hidden layers and nodes in a feedforward neural network?
+What tools could be used for applying clustering algorithms on MovieLens?
+Cross tabulation of two categorical variables: recommended techniques
+Data Mining-- How to Tell Whether the Pattern Extracted is Meaningful?
+What do you think is the best goodness of fit test?
+Open source tools for visualizing multi-dimensional data?
+Group differences on a five point Likert item
+Why do we make a big fuss about using Fisher scoring when we fit a GLM?
+What is the difference between discrete data and continuous data?
+What method to use to test Statistical Significance of ASR results
+What is the best way to identify outliers in multivariate data?
+Web visualization libraries
+How is the minimum of a set of random variables distributed?
+What are principal component scores?
+Intro to statistics for an MD?
+Recommended visualization libraries for standalone applications
+Why is the average of the highest value from 100 draws from a normal distribution different from the 98th percentile of the normal distribution?
+Using time series analysis to analyze/predict violent behavior
+Variance components
+How boosting works?
+What is the easiest way to create publication-quality plots under Linux?
+Poll: What is the best out-of-the-box 2-class classifier for your application?
+How do I calculate if the degree of overlap between two lists is significant?
+What is the difference between a population and a sample?
+Poisson regression with large data: is it wrong to change the unit of measurement?
+How large should a sample be for a given estimation technique and parameters?
+Spatial statistics models -- CAR vs SAR
+How to deal with the effect of the order of observations in a non hierarchical cluster analysis?
+What is a "saturated" model?
+What is the difference/relationship between method of moments and GMM?
+Estimating beta-binomial distribution
+Resources for learning Stata
+In linear regression, when is it appropriate to use the log of an independent variable instead of the actual values?
+When conducting a t-test why would one prefer to assume (or test for) equal variances rather than always use a Welch approximation of the df?
+What approach could be used for modelling virus infections?
+How does gentle boosting differ from AdaBoost?
+Good introduction into different kinds of entropy
+When to use null hypothesis testing?
+Resources for learning about the Statistical Analysis of Financial Data
+kNN and unbalanced classes
+What is a good algorithm for estimating the median of a huge read-once data set?
+Bias towards natural numbers in the case of least squares
+The trinity of tests in maximum likelihood: what to do when faced with contradicting conclusions?
+What is the difference between the Shapiro-Wilk test of normality and the Kolmogorov-Smirnov test of normality?
+What is the single most influential book every statistician should read?
+Working through a clustering problem
+What are the key statistical concepts that relate to data mining?
+The Monty Hall Problem - where does our intuition fail us?
+What are pivot tables, and how can they be helpful in analyzing data?
+Testing (and proving) the randomness of numbers
+How to tell if something happened in a data set which monitors a value over time
+What best practices should I follow when preparing plots?
+How to approximate measurement uncertainty?
+Motivation for Kolmogorov distance between distributions
+Introduction to statistics for mathematicians
+Why isn't RANSAC most widely used in statistics?
+What book would you recommend for non-statistician scientists?
+What is your favorite "data analysis" cartoon?
+Always Report Robust (White) Standard Errors?
+Good line color for "threshold" line in a time-series graph?
+How does random forest generate the random forest
+Is it valid to aggregate a time series to make it look more meaningful?
+Mathematical Statistics Videos
+Negative values for AICc (corrected Akaike Information Criterion)
+Variable selection procedure for binary classification
+Dubious use of signal processing principles to identify a trend
+In PC SAS, how do you copy & paste from the output window?
+When can you use data-based criteria to specify a regression model?
+What is the best method for checking convergence in MCMC?
+Unsupervised, supervised and semi-supervised learning
+Is there a standard technique to debug MCMC programs?
+Does the cross validation implementation influence its results?
+What ways are there to show two analytical methods are equivalent?
+Under what conditions does correlation imply causation?
+Does it ever make sense to treat categorical data as continuous?
+How can I use optimal scaling to scale an ordinal categorical variable?
+Why is ANOVA taught / used as if it is a different research methodology compared to linear regression?
+Comprehensive overview of loss functions?
+When to use multiple models for prediction?
+What is an instrumental variable?
+What is difference-in-differences?
+What graphical techniques are used in Structural Equation Modeling?
+How to understand a convolutional deep belief network for audio classification
+Post-hocs for within subjects tests?
+Is there any reason to prefer the AIC or BIC over the other?
+Differences between Baum Welch and Viterbi Training
+To what extent can we call a Geometric Distribution a Geometric Density
+E-M, is there an intuitive explanation?
+Something like E-M for discriminative models?
+Heuristics for optimizing ν-SVM?
+Why prediction of a predicted variable from a discriminant analysis is imperfect
+How can one empirically demonstrate in R which cross-validation methods the AIC and BIC are equivalent to?
+is psych::principal function still PCA when using rotation?
+Open Source statistical textbooks?
+What is the difference between a partial likelihood, profile likelihood and marginal likelihood?
+Forecasting handbooks
+Standard deviation of standard deviation
+Incorporating boolean data into analysis
+How to calculate the ratio of "data used in analysis" and "saved data for validation" from a sample set?
+Where is a good place to find survey results?
+How do you convey the beauty of the Central Limit Theorem to a non-statistician?
+Best Way to Aggregate and Analyze Data
+Best books for an introduction to statistical data analysis?
+Automating statistical correlation between "texts" and "data"
+What's the difference between probability and statistics?
+What is Bayes' theorem all about?
+Lies, Damn Lies and Statistics
+How do I determine if a survival model with missing data is appropriate?
+Data anonymization software
+Dataset for multi class perceptron
+How can I test whether my clustering of binary data is significant
+Suggested R packages for frontier estimation or segmentation of hyperspectral images
+Famous statistician quotes
+Interpretation of coefficients in a first order Markov Transitional model
+Use of Bayesian Search Theory in geological interpretation
+Linear Mixed Effects Models
+What types of data analysis do not count as statistics?
+Is it possible to use machine learning as a method for learning stats, rather than vice-versa?
+Operations research versus statistical analysis?
+Normal distribution and monotonic transformations
+Why (or when) to use the log-mean?
+Normalization of series
+Calculating optimal number of bins in a histogram for n, where n ranges from 30-350
+How do I calculate the SE for PPV, NPV, and DOR?
+When should normalization never be used?
+What is the difference between functional data analysis and high dimensional data analysis
+How can I link item by relevance?
+Any suggestions for making R code use multiple processors?
+What is AIC? Looking for a formal but intuitive answer
+R lrm model with no predictors
+Comparing the variance of paired observations
+Regression output and Fisher-Snedecor distribution
+What statistical model is used to calculate the test results for GWO?
+Elasticities Using GLM
+Fisher's Exact Test with weights?
+ANOVA with non-independent observations
+When should I use lasso vs ridge?
+Training a Logistic Regression Model
+Multiple hypothesis testing correction with Benjamini-Hochberg, p-values or q-values?
+Correct formatting (capitalization, italicization, hyphenation) of "p-value"?
+Time Series Econometrics: VECM with multiple cointegration vectors
+Cross validation in very high dimension (to select the number of used variables in very high dimensional classification)
+Series expansion of a density function
+What are "degrees of freedom"?
+What is the 'fundamental' idea of machine learning for estimating parameters?
+Basic question regarding variance and stdev of a sample
+Logistic Regression: Reference Category and Prediction
+Online vs offline learning?
+Modeling of real-time streaming data?
+Separating two populations from the sample
+Relationships between two variables
+Test if probabilities are statistically different?
+Determine if three is statistically different than ten for a very large number of observations (1,000,000)
+Statistical podcasts
+Measurement level of percentile scores
+Probability Interpretations
+Yates' correction for continuity only for 2X2?
+Application of wavelets to time-series-based anomaly detection algorithms
+How can I get R to stop autocompleting my quotes/parens?
+Column Means Significance Tests in R
+When is logistic regression solved in closed form?
+Nonhomogeneous Poisson and Heavy tail inter arrival time distribution
+How to reduce number of items on a multi-item scale where each item requires ranking four response options
+Data Analysis Work-- Is there Any Freelance Opportunity?
+Statistical test for n x m contingency tables
+What are analysts looking for when they plot a differenced, logged time series?
+Free data set for very high dimensional classification
+How many measurements are needed to 'baseline' a measurement?
+How do I reduce the number of data points in a series?
+Spearman's Correlation Coefficient to compare distributions?
+What would the calculated value of the standard deviation of a uniform distribution be?
+Reliability in Elicitation Exercise
+Is a variable significant in a linear regression model?
+Where can I find good statistics quizzes?
+Questions about KL divergence?
+What is the interpretation/meaning of confidence intervals in misspecified models?
+Is there a radical difference in how bayesian and frequentist approaches treat nuisance parameters?
+Is Kolmogorov-Smirnov test valid with discrete distributions?
+What is the major difference between correlation and mutual information?
